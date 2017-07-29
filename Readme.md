@@ -1,4 +1,4 @@
-# data visualization in python
+# Data visualization in python
 this is the basic data visualization stuff that every CS engineer know.
 ## Definitions
 
