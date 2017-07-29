@@ -1,4 +1,4 @@
- # data visualization in python
+# data visualization in python
 this is the basic data visualization stuff that every CS engineer know.
 ## Definitions
 
@@ -30,6 +30,7 @@ this is the basic data visualization stuff that every CS engineer know.
 
 Assume function with a domain and range. If for every x and y we have temperature t and pressure p, 
 '''
+
     f(x, y) -> (t, p)
 
     f1(x, y) -> t, f2(x, y) -> p
@@ -96,4 +97,5 @@ therefore losing information (e.g. hidden surfaces in projection). This is OK fo
 * translucency
 * stereopsis
 * animation 
+
 
